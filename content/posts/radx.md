@@ -1,5 +1,5 @@
 ---
-Title: Radx
+Title: LROSE (Radx)
 Date: 2018-05-24 00:00
 Category: Projects
 Authors: openradar
@@ -8,11 +8,14 @@ Tags: project, devel, C++
 
 ## Quick description
 
-The Radx C++ package was developed at NCAR to provide support for the new CfRadial radar data format, and to provide translation between common radar data formats. Radx is designed to be run on LINUX and MacOSX platforms, but should also run on Windows under Cygwin. It comprises a C++ library, which may be used by developers, and a number of applications built on that library.
+The Lidar Radar Open Software Environment (LROSE) is developed by a collaboration of the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR) and the Colorado State University (CSU).  LROSE encompasses six key toolsets that define a core lidar/radar workflow: Convert, Display, QC, Grid, Echo, and Winds. LROSE focuses on high-quality, well-tested, well-maintained and well-documented key applications as ‘building blocks’, allowing users to assemble trusted, reproducible workflows to accomplish more complex scientific tasks.
+
+The LROSE C++ tools provide support for the new CfRadial radar data format, and to provide translation between common radar and lidar data formats. LROSE runs on LINUX and MacOSX platforms, and also on Windows under the Linux subsystem. It comprises a C++ library, which may be used by developers, and a number of applications built on that library.
+
 
 ## Homepage
 
-<https://ral.ucar.edu/projects/titan/docs/radial_formats/radx.html>
+<http://wiki.lrose.net/index.php/Main_Page>
 
 ## Code Repositories
 
@@ -20,10 +23,11 @@ The Radx C++ package was developed at NCAR to provide support for the new CfRadi
 
 ## Software Documentation
 
-<https://ral.ucar.edu/projects/titan/docs/radial_formats/radx.html>
+<http://wiki.lrose.net/index.php/Main_Page>
 
 ## User group or forum page
-N/A
+
+<http://forum.lrose.net/>
 
 ## License model
 BSD
@@ -35,7 +39,7 @@ BSD
 C++
 
 ## Supported platforms
-Linux, Mac
+Linux, Mac, Windows (Linux subsystem)
 
 ## Type of software
 API/library, application
