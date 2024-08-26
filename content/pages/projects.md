@@ -21,7 +21,7 @@ Title: Open source weather radar software
 * [pysteps]({filename}../posts/pysteps.md)
 * [PyTDA]({filename}../posts/pytda.md)
 * [RadarTools for ArcGID]({filename}../posts/radartoolsarcgis.md)
-* [Radx]({filename}../posts/radx.md)
+* [LROSE]({filename}../posts/radx.md)
 * [rainymotion]({filename}../posts/rainymotion.md)
 * [RSL]({filename}../posts/rsl.md)
 * [RSL in IDL]({filename}../posts/rsl_in_idl.md)
